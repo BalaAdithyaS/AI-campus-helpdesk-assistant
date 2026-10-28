@@ -1,0 +1,22 @@
+{
+  "name": "vit-campusiq",
+  "version": "1.0.0",
+  "description": "Evidence-grounded AI campus helpdesk assistant for university inquiries.",
+  "scripts": {
+    "dev:frontend": "npm run dev --prefix frontend",
+    "build:frontend": "npm run build --prefix frontend",
+    "preview:frontend": "npm run preview --prefix frontend",
+    "start:backend": "python -m uvicorn backend.app.main:app --host 127.0.0.1 --port 8000 --reload",
+    "test:backend": "python -m pytest backend/tests -v"
+  },
+  "keywords": [
+    "campus-helpdesk",
+    "rag",
+    "ai-assistant",
+    "grounding",
+    "citations",
+    "university"
+  ],
+  "author": "CampusIQ Engineering Team",
+  "license": "MIT"
+}

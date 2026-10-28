@@ -1,0 +1,527 @@
+[
+  {
+    "id": "kb_nav_001",
+    "title": "Locating Technology Tower Lecture Halls (Block TT)",
+    "category": "Classroom Locations",
+    "content": "Technology Tower (TT) lecture halls are numbered by floor. Ground floor rooms are TT-101 through TT-120, first floor rooms are TT-201 through TT-220, second floor rooms are TT-301 through TT-320, and third floor smart rooms are TT-401 through TT-420. The main elevators and central staircases are located near the atrium entrance opposite the Silver Jubilee Lawn. [Synthetic demonstration record for campus navigation]",
+    "keywords": ["classroom", "lecture hall", "technology tower", "tt", "room number", "find room", "location"],
+    "question_variants": [
+      "Where is the classroom?",
+      "How do I find my class?",
+      "Which building is the lecture hall in?",
+      "Can you help me locate the room?",
+      "Where can I find lecture hall TT 305?",
+      "Where is TT-201 located?",
+      "How are rooms numbered in Technology Tower?",
+      "Where are TT smart classrooms?",
+      "How to reach TT third floor rooms?",
+      "Which floor is TT-105 on?"
+    ],
+    "synonyms": ["lecture hall", "smart room", "class", "atrium", "tt block", "academic block"],
+    "source_type": "FAQ",
+    "source_name": "Campus Academic Blocks Directory (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_nav_002",
+    "title": "SJT (Silver Jubilee Tower) Seminar Halls and Tutorial Rooms",
+    "category": "Classroom Locations",
+    "content": "Silver Jubilee Tower (SJT) houses tutorial rooms and large seminar auditoriums across 8 floors. Rooms prefixed with SJT-G are on the ground concourse, SJT-100 series on the 1st level, through SJT-700 on the 7th floor. SJT Gallery Hall 1 is located adjacent to the eastern entrance on the 1st floor. Accessible wheelchair ramps are situated at the north-west porch. [Synthetic demonstration record for campus navigation]",
+    "keywords": ["sjt", "silver jubilee tower", "tutorial room", "seminar hall", "gallery", "classroom"],
+    "question_variants": [
+      "Where is SJT building?",
+      "How to find tutorial rooms in Silver Jubilee Tower?",
+      "Where is SJT Gallery Hall 1?",
+      "Which floor is SJT 401 on?",
+      "Where are the seminar halls in SJT?",
+      "How do I navigate Silver Jubilee Tower?",
+      "Where are wheelchair ramps at SJT?",
+      "Can you help me locate SJT-G rooms?"
+    ],
+    "synonyms": ["silver jubilee", "seminar auditorium", "gallery hall", "tutorial room"],
+    "source_type": "Directory",
+    "source_name": "SJT Facilities Guide (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_lab_001",
+    "title": "Computing and Data Science Laboratory Operational Hours",
+    "category": "Laboratory Schedules",
+    "content": "The Central Computing Labs located in TT 3rd Floor operate Monday through Friday from 08:30 AM to 08:00 PM, and on Saturdays from 09:00 AM to 05:00 PM for scheduled coursework and guided practicals. Open-access developer practice slots are available weekday evenings between 05:30 PM and 08:00 PM, subject to biometric entry and active student ID registration. The labs remain closed on official university holidays. [Synthetic demonstration record for campus laboratory schedules]",
+    "keywords": ["computer lab", "data science lab", "timings", "hours", "schedule", "operating hours", "practical"],
+    "question_variants": [
+      "Lab timing",
+      "When does the laboratory open?",
+      "What time does the lab close?",
+      "Can I know the laboratory schedule?",
+      "What are the operating hours for the computing lab?",
+      "When is the computer lab open in TT?",
+      "What time can students practice in the data science lab?",
+      "Are computing labs open on Saturdays?",
+      "Is TT 3rd floor lab accessible in the evening?",
+      "Do I need biometric entry for the computer practicals?"
+    ],
+    "synonyms": ["computing facility", "data center", "open slots", "practical hours", "developer lab"],
+    "source_type": "Schedule",
+    "source_name": "Department Computing Facility Guidelines (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_lab_002",
+    "title": "Electronics and Microcontroller Lab Access Rules and Timing",
+    "category": "Laboratory Schedules",
+    "content": "Electronics and Hardware prototyping laboratories in SJT 4th floor are accessible to undergraduate students during scheduled laboratory sessions from 09:00 AM to 04:30 PM, Monday to Friday. Component checkout requires a validated lab pass issued by the respective course instructor. Safety footwear is mandatory in fabrication and high-voltage testing bays. [Synthetic demonstration record for hardware lab safety and hours]",
+    "keywords": ["electronics lab", "hardware", "microcontroller", "timings", "equipment checkout", "safety rules"],
+    "question_variants": [
+      "When is the electronics lab open in SJT?",
+      "Hardware prototyping lab timings",
+      "How do I borrow components from the microcontroller lab?",
+      "What are the safety rules for the electronics laboratory?",
+      "Can I access SJT 4th floor hardware lab after 5 PM?",
+      "Do I need instructor permission for electronics equipment checkout?"
+    ],
+    "synonyms": ["hardware lab", "circuit lab", "embedded systems lab", "prototyping bay"],
+    "source_type": "Guidelines",
+    "source_name": "School of Electronics Lab Manual (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_evt_001",
+    "title": "Annual University Technical Symposium & Hackathon Registration",
+    "category": "Event Registration",
+    "content": "Registration for the annual campus hackathon and technical symposium is submitted exclusively through the student intranet portal (Events > Technical Symposium). Team sizes range from 2 to 4 members. Each participant must upload a digital copy of their current semester registration receipt and university ID. Registration opens four weeks prior to the event and closes strictly 72 hours before the opening keynote. No spot registrations are entertained. [Synthetic demonstration record for university event registrations]",
+    "keywords": ["hackathon", "symposium", "event registration", "register", "team registration", "tech fest", "competition"],
+    "question_variants": [
+      "How do I register for an event?",
+      "How can I sign up for a college event?",
+      "Where can I enrol for a campus programme?",
+      "I want to participate in an event. What should I do?",
+      "What is the process for joining a university event?",
+      "Can students register online for events?",
+      "How do I get my name on the participants list?",
+      "How do I register a team for the university hackathon?",
+      "What is the team size limit for the campus hackathon?",
+      "Can I do spot registration for the technical symposium?",
+      "Where to submit symposium application form?"
+    ],
+    "synonyms": ["sign up", "enrol", "participate", "entry", "tech fest", "competition", "intranet portal"],
+    "source_type": "Procedure",
+    "source_name": "Student Activities Office Bulletin (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_evt_002",
+    "title": "Student Club Recruitment and Cultural Event Participation",
+    "category": "Event Registration",
+    "content": "Student club recruitments take place at the beginning of the Fall and Winter semesters during Club Orientation Week at the Student Activity Centre (SAC). Students may apply to a maximum of three registered clubs per semester. Auditions and interview slots are scheduled via the student club portal, and results are published within 5 business days of interview completion. [Synthetic demonstration record for student club enrollments]",
+    "keywords": ["club", "recruitment", "sac", "cultural event", "student activities", "join club", "auditions"],
+    "question_variants": [
+      "How do I join student clubs?",
+      "When is club orientation week held?",
+      "How many student chapters can I join in a semester?",
+      "Where are club auditions conducted?",
+      "Can freshmen apply for university cultural chapters?",
+      "How to enrol in student activity centre groups?"
+    ],
+    "synonyms": ["chapter", "society", "extracurricular", "sac orientation", "audition"],
+    "source_type": "FAQ",
+    "source_name": "Office of Student Welfare Circular (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_sup_001",
+    "title": "Student Health Center and Medical Emergency Protocols",
+    "category": "Student Support",
+    "content": "The Campus Health Center is located near the North Residential Complex and provides 24/7 outpatient consultation, first aid, and basic pharmaceutical supplies for enrolled students. For acute emergencies, the campus ambulance dispatch can be contacted through internal campus extension 1100. Routine physician consultations take place between 08:30 AM and 07:00 PM daily. A student ID card is required for medical record lookup. [Synthetic demonstration record for campus health support]",
+    "keywords": ["health center", "medical", "doctor", "emergency", "ambulance", "pharmacy", "sick", "hospital"],
+    "question_variants": [
+      "Where is the campus medical clinic?",
+      "What should I do if there is a medical emergency?",
+      "How to call campus ambulance?",
+      "Is the student hospital open 24 hours?",
+      "What time are doctors available at health center?",
+      "Where to get first aid medicine on campus?"
+    ],
+    "synonyms": ["infirmary", "doctor", "dispensary", "clinic", "pharmacy", "first aid"],
+    "source_type": "Directory",
+    "source_name": "Student Welfare and Health Handbook (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_sup_002",
+    "title": "Student Counseling and Mental Health Wellness Services",
+    "category": "Student Support",
+    "content": "Confidential psychological counseling and stress management guidance are offered free of charge to all enrolled students at the Student Wellness Wing, Central Library Ground Floor. Individual sessions are available by appointment from Monday to Friday, 09:00 AM to 05:30 PM. Walk-in crisis intervention hours are held between 02:00 PM and 04:00 PM daily. Inquiries and scheduling are handled strictly with student privacy protections. [Synthetic demonstration record for campus counseling]",
+    "keywords": ["counseling", "mental health", "wellness", "psychologist", "stress", "support", "wellbeing"],
+    "question_variants": [
+      "How can I book a session with a campus counselor?",
+      "Where is the student wellness wing?",
+      "Is psychological counseling free for students?",
+      "Are mental health consultations confidential?",
+      "When are walk-in crisis counseling hours?"
+    ],
+    "synonyms": ["therapist", "psychologist", "stress management", "mental health support"],
+    "source_type": "Guidelines",
+    "source_name": "Campus Wellness Services Guide (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_lib_001",
+    "title": "Central Library Operating Hours, Borrowing Limits, and Renewals",
+    "category": "Library Information",
+    "content": "The Central Library is open from 08:00 AM to 11:00 PM on weekdays, and from 09:00 AM to 06:00 PM on weekends. During mid-term and end-term examinations, reading halls remain open until 01:00 AM. Undergraduate students may borrow up to 4 books simultaneously for an initial loan period of 14 days, renewable up to two times online via the WebOPAC system provided no hold has been placed by another borrower. [Synthetic demonstration record for library operations]",
+    "keywords": ["library", "books", "borrowing", "library timings", "open hours", "renew book", "reading room"],
+    "question_variants": [
+      "Library timings",
+      "When does the Central Library open and close?",
+      "What are the library operating hours on weekends?",
+      "How many books can undergraduate students borrow?",
+      "How long can I keep borrowed library books?",
+      "How to renew library books online?",
+      "Does the library reading room stay open late during exams?"
+    ],
+    "synonyms": ["reading hall", "webopac", "circulation desk", "book loan"],
+    "source_type": "Policy",
+    "source_name": "Central Library Operations Manual (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_lib_002",
+    "title": "Digital Library and Remote Research Database Access (IEEE, ScienceDirect)",
+    "category": "Library Information",
+    "content": "Students and researchers can access subscribed electronic databases including IEEE Xplore, ACM Digital Library, and ScienceDirect using their university single sign-on credentials. On campus, access is automatic over the university Wi-Fi network. For off-campus access, students must connect via the institutional Shibboleth proxy service (library.univ-proxy.local) using their university email ID and password. [Synthetic demonstration record for digital library databases]",
+    "keywords": ["digital library", "ieee", "sciencedirect", "research papers", "databases", "off campus access", "journals"],
+    "question_variants": [
+      "How do I access IEEE papers from home?",
+      "Can I open ScienceDirect and ACM digital library off campus?",
+      "What is the proxy link for research databases?",
+      "How do students access scientific research journals?"
+    ],
+    "synonyms": ["e-journals", "shibboleth", "research portal", "academic papers"],
+    "source_type": "Guide",
+    "source_name": "Electronic Resources Portal Guide (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_proc_001",
+    "title": "Procedure for Replacing a Lost or Damaged Student ID Card",
+    "category": "Campus Procedures",
+    "content": "To replace a lost or physically damaged student smart card, follow these three steps: 1) Report the loss on the Student Intranet to instantly disable the previous card's RFID and payment functions; 2) Remit a synthetic replacement fee of 300 units via the online fee payment gateway; 3) Bring the payment transaction slip and a government photo ID to the Registrar's Identification Cell, Main Administrative Building Ground Floor, counter 4. Replacement cards are printed within 48 business hours. [Synthetic demonstration record for ID card re-issuance]",
+    "keywords": ["id card", "lost card", "replacement", "smart card", "student id", "reissue", "rfid"],
+    "question_variants": [
+      "What is the procedure if I lose my student ID card?",
+      "How do I replace a misplaced or broken smart card?",
+      "I lost my university ID card. What steps should I take?",
+      "I lost my campus ID card what should I do?",
+      "How to get duplicate smart card?",
+      "Where is the Identification Cell to collect duplicate ID card?",
+      "How much is the fine or fee for a replacement ID card?",
+      "Who can disable lost RFID student card?"
+    ],
+    "synonyms": ["smart card", "identity card", "rfid badge", "identification cell", "duplicate card"],
+    "source_type": "Procedure",
+    "source_name": "Registrar Administrative Handbook (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_proc_002",
+    "title": "Hostel Outing and Leave Permission Request Process",
+    "category": "Campus Procedures",
+    "content": "Residential students requiring day outing or weekend overnight leave must submit an electronic leave request through the Student Mobile Companion app at least 24 hours prior to departure. Overnight leave requests require digital OTP authorization from registered parents or guardians. Students must tap their RFID cards at the campus security gate when departing and returning before the 09:00 PM curfew. [Synthetic demonstration record for hostel leave workflows]",
+    "keywords": ["hostel", "leave", "outing", "permission", "gate pass", "curfew", "parent consent"],
+    "question_variants": [
+      "How do I apply for hostel leave or outing?",
+      "What is the hostel gate curfew time?",
+      "Do overnight leave requests require parent permission?",
+      "How to generate electronic hostel gate pass?",
+      "When must hostel students return to campus?"
+    ],
+    "synonyms": ["dormitory", "residential curfew", "out pass", "warden permission"],
+    "source_type": "Policy",
+    "source_name": "Hostel Affairs & Residential Regulations (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_proc_003",
+    "title": "Campus Wi-Fi Registration and Device Configuration",
+    "category": "Campus Procedures",
+    "content": "To connect a personal laptop or smartphone to the high-speed campus Wi-Fi network (SSID: CAMPUS-SECURE), users must complete an 802.1X security enrollment. Navigate to the captive portal at wifi-setup.local, download the institutional security certificate, and log in with your university registration number and network password. Each student may register up to three distinct MAC addresses. Guest credentials can be requested for conference visitors via the IT helpdesk. [Synthetic demonstration record for network connectivity]",
+    "keywords": ["wifi", "internet", "wireless", "ssid", "connect wifi", "network password", "mac address"],
+    "question_variants": [
+      "How do I connect my laptop to the CAMPUS-SECURE Wi-Fi?",
+      "How to configure wireless internet on mobile phone?",
+      "What is the campus Wi-Fi SSID name?",
+      "How many devices can I register for campus Wi-Fi?",
+      "Where do I download the 802.1X security certificate for internet?",
+      "How do visitors get guest Wi-Fi access?"
+    ],
+    "synonyms": ["wireless network", "wlan", "captive portal", "mac address binding", "internet access"],
+    "source_type": "Guide",
+    "source_name": "Information Technology Services Guide (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_proc_004",
+    "title": "Applying for Official Academic Transcripts and Grade Sheets",
+    "category": "Campus Procedures",
+    "content": "Students and alumni requesting physical or digitally signed official transcripts must apply through the Controller of Examinations (COE) student portal. Select the desired destination university or employer address, upload the clearance form, and pay the credential verification fee online. Standard processing time is 5 to 7 working days. Hard copies may be collected from COE Window 2 or dispatched via registered airmail. [Synthetic demonstration record for transcript requests]",
+    "keywords": ["transcript", "gradesheet", "marksheet", "controller of examinations", "coe", "official records", "degree"],
+    "question_variants": [
+      "How to order official university transcripts?",
+      "Where can I apply for verified grade sheets?",
+      "How long does COE take to issue transcripts?",
+      "Can transcripts be mailed directly to foreign universities?",
+      "Where is COE Window 2 located for transcript pickup?"
+    ],
+    "synonyms": ["marksheet", "grade card", "credential verification", "degree certificate"],
+    "source_type": "Procedure",
+    "source_name": "Office of Examination Affairs (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_esc_001",
+    "title": "IT Services Helpdesk Escalation and Ticket Priority Matrix",
+    "category": "Helpdesk Escalation",
+    "content": "For technical issues regarding LMS portal access, exam proctoring software, or campus email accounts, students can submit an incident ticket at it-helpdesk.local. Tickets are categorized as Priority 1 (Campus-wide disruption - 2 hr resolution target), Priority 2 (Course access / submission blocker - 6 hr target), or Priority 3 (General inquiry / account configuration - 24 hr target). If a ticket remains unaddressed after 24 hours, escalate by emailing helpdesk-escalation@univ-demo.edu with your ticket reference ID. [Synthetic demonstration record for helpdesk escalation]",
+    "keywords": ["helpdesk", "escalation", "it support", "ticket", "portal issue", "technical support", "contact it"],
+    "question_variants": [
+      "How do I escalate an unresolved IT ticket?",
+      "Who should I contact if LMS portal is down?",
+      "What is the resolution SLA for exam portal technical issues?",
+      "How to submit support ticket for university email login problems?"
+    ],
+    "synonyms": ["service desk", "it trouble ticket", "portal outage", "escalation email"],
+    "source_type": "SLA",
+    "source_name": "IT Service Level Agreement and Escalation Protocol (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_esc_002",
+    "title": "Academic Grievance and Course Grade Re-evaluation Escalation",
+    "category": "Helpdesk Escalation",
+    "content": "If a student perceives a grading discrepancy or grievance following the publication of end-term results, an application for review must be submitted within 7 calendar days of mark publication. Step 1: Submit an online re-evaluation request via the COE portal. Step 2: If unresolved, schedule a review meeting with the Department Course Coordinator and Dean of School. Step 3: For lingering procedural disputes, the matter is submitted to the University Academic Ombudsman. [Synthetic demonstration record for academic grievance handling]",
+    "keywords": ["grievance", "grade re-evaluation", "dispute", "ombudsman", "grade appeal", "academic review"],
+    "question_variants": [
+      "How to dispute an exam grade?",
+      "What is the re-evaluation procedure for end-term papers?",
+      "How many days do I have to submit a grading grievance?",
+      "Who is the Academic Ombudsman and how to contact them?"
+    ],
+    "synonyms": ["mark recheck", "grade appeal", "paper review", "academic ombudsman"],
+    "source_type": "Policy",
+    "source_name": "Academic Regulations and Grievance Charter (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_acad_001",
+    "title": "Course Registration (FFCS) Add/Drop Window and Credit Limits",
+    "category": "Academic Administration",
+    "content": "Under the Fully Flexible Credit System (FFCS), course registration opens in staggered slots based on cumulative earned credits and CGPA. Students must register for a minimum of 16 credits and a maximum of 27 credits per semester (unless given prior overload permission by the Academic Dean). The Course Add/Drop window opens on the third day of instruction and remains active for exactly five academic days. Late registrations incur a disciplinary hold. [Synthetic demonstration record for FFCS course enrollments]",
+    "keywords": ["course registration", "ffcs", "add drop", "credits", "minimum credits", "course selection", "enrollment"],
+    "question_variants": [
+      "How does FFCS course registration work?",
+      "What is the minimum and maximum credit limit per semester?",
+      "When is the course add drop window open?",
+      "Can I register for more than 27 credits in a semester?",
+      "How are FFCS registration time slots allotted?"
+    ],
+    "synonyms": ["flexible credit system", "course enrollment", "class scheduling", "credit overload"],
+    "source_type": "Policy",
+    "source_name": "Academic Curriculum and FFCS Handbook (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_acad_002",
+    "title": "Minimum Attendance Requirements and Medical Leave Condonation",
+    "category": "Academic Administration",
+    "content": "Students are required to maintain a minimum attendance of 75% in every theory and practical course to qualify for final end-term examinations. Students with attendance between 65% and 74% due to documented hospitalization or sanctioned university sports/technical representation may submit a Medical Leave or On-Duty (OD) form within 3 business days of return to class. Attendance below 65% results in course debarment and mandatory re-registration. [Synthetic demonstration record for attendance policies]",
+    "keywords": ["attendance", "75 percent", "debar", "medical leave", "on duty", "od", "condonation", "minimum attendance"],
+    "question_variants": [
+      "What is the minimum attendance percentage required to write exams?",
+      "Is 75% attendance mandatory for final exams?",
+      "What happens if my attendance drops below 65%?",
+      "How do I submit an OD or medical leave form for missing class?",
+      "Can attendance be condoned for sports tournaments?"
+    ],
+    "synonyms": ["75 percent rule", "debarment", "medical certificate", "on duty clearance"],
+    "source_type": "Regulations",
+    "source_name": "University Academic Code of Conduct (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_acad_003",
+    "title": "Fee Payment Deadlines, Late Fines, and Installment Plans",
+    "category": "Academic Administration",
+    "content": "Semester academic and residential fees must be paid in full by the published deadline prior to course registration. Online payment is supported via debit card, credit card, net banking, and verified UPI on the student finance portal. A daily late fee of 100 units applies for payments completed within the 10-day grace period. Installment plans or emergency extensions must receive prior written endorsement from the Student Financial Aid Advisory Committee. [Synthetic demonstration record for tuition fee procedures]",
+    "keywords": ["fee payment", "tuition", "late fee", "due date", "installment", "finance", "receipt"],
+    "question_variants": [
+      "When is the tuition fee payment deadline?",
+      "What is the late fee penalty for paying college fees after due date?",
+      "Can I pay semester fees in installments?",
+      "Which payment modes are supported on student finance portal?"
+    ],
+    "synonyms": ["tuition fees", "hostel dues", "payment gateway", "late fine"],
+    "source_type": "Procedure",
+    "source_name": "Finance & Accounts Office Schedule (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_nav_003",
+    "title": "Main Administration Building (Centre Block) Office Directory",
+    "category": "Campus Navigation",
+    "content": "The Central Administrative Complex houses key student governance offices. Ground Floor: Office of the Registrar, Cash and Accounts Section, and Admissions Helpdesk. First Floor: Office of the Vice-Chancellor, Controller of Examinations (COE), and Academic Research Cell. Second Floor: Dean of Student Welfare, International Relations Office, and Career Development Center. Office hours for student inquiries are 09:30 AM to 04:30 PM on weekdays. [Synthetic demonstration record for administrative offices]",
+    "keywords": ["admin block", "registrar", "accounts", "admissions", "coe office", "student welfare", "career center", "location"],
+    "question_variants": [
+      "Where is the Main Administration Building?",
+      "Where is the Registrar's office located?",
+      "On which floor is Controller of Examinations office?",
+      "Where to find Dean of Student Welfare?",
+      "What are the student visiting hours for the admin block?"
+    ],
+    "synonyms": ["central administrative complex", "centre block", "directorate", "accounts counter"],
+    "source_type": "Directory",
+    "source_name": "Central Campus Directory (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_nav_004",
+    "title": "Campus Shuttle Bus Routes, Stops, and Daytime Frequency",
+    "category": "General Campus Navigation",
+    "content": "Eco-friendly campus shuttle buses (Green Liners) circulate between the Main Academic Zone, Technology Tower, Silver Jubilee Tower, Sports Complex, and Residential Hostels every 12 to 15 minutes between 07:30 AM and 09:30 PM daily. Shuttle service is complimentary for all students, staff, and campus visitors. Live shuttle position tracking is accessible on the Campus Companion mobile web app. [Synthetic demonstration record for campus transit]",
+    "keywords": ["shuttle bus", "bus", "transport", "route", "campus travel", "frequency", "stops", "bus schedule"],
+    "question_variants": [
+      "How often do campus shuttle buses run?",
+      "Where does the campus shuttle bus stop?",
+      "Is the campus bus free for students?",
+      "What time do campus shuttle buses start and stop operating?",
+      "How can I track the live location of Green Liner shuttles?"
+    ],
+    "synonyms": ["green liner", "campus transport", "shuttle schedule", "transit route"],
+    "source_type": "Schedule",
+    "source_name": "Campus Logistics and Transport Guide (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_nav_005",
+    "title": "Sports Complex, Gymnasium, and Indoor Arena Facilities",
+    "category": "General Campus Navigation",
+    "content": "The University Multi-Purpose Sports Complex includes outdoor synthetic running tracks, basketball courts, and an indoor arena with badminton courts, squash facilities, and a dedicated fitness gymnasium. The gymnasium is open in two shifts: morning session from 06:00 AM to 08:30 AM, and evening session from 04:30 PM to 08:30 PM. Non-marking sports shoes and student ID registration are mandatory for indoor arena access. [Synthetic demonstration record for sports facilities]",
+    "keywords": ["sports complex", "gym", "gymnasium", "badminton", "fitness", "timings", "indoor sports"],
+    "question_variants": [
+      "What are the gym timings?",
+      "When is the fitness gymnasium open?",
+      "Can students play badminton in the indoor sports complex?",
+      "Do I need special shoes for the indoor badminton court?",
+      "Is gym access included for residential students?"
+    ],
+    "synonyms": ["workout center", "fitness room", "indoor stadium", "badminton court"],
+    "source_type": "Guidelines",
+    "source_name": "Department of Physical Education Guide (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_sup_003",
+    "title": "Lost and Found Property Clearing Protocol",
+    "category": "Student Support",
+    "content": "Items misplaced or found across academic blocks, laboratories, or library spaces should be deposited at the Central Security Dispatch Office (located on the ground floor of the Central Gatehouse). To claim a recovered item, owners must produce their student ID card, state the approximate date and location of loss, and provide a verifiable identifying description or unlock password for electronics. Unclaimed property is kept for 60 calendar days before university auction or donation. [Synthetic demonstration record for lost and found property]",
+    "keywords": ["lost and found", "lost item", "misplaced", "keys", "wallet", "laptop", "security office", "claim"],
+    "question_variants": [
+      "Where is the lost and found office?",
+      "What should I do if I forget my laptop or wallet in class?",
+      "How to claim an item deposited at lost and found?",
+      "Where to submit found keys or smart cards?",
+      "How long does security keep unclaimed items?"
+    ],
+    "synonyms": ["lost property", "security gatehouse", "recovered items", "misplaced items"],
+    "source_type": "Procedure",
+    "source_name": "Campus Security & Safety Office (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_acad_004",
+    "title": "Internship On-Duty (OD) Leave Approval Process for Final Year Students",
+    "category": "Academic Administration",
+    "content": "Final year students undergoing approved off-campus corporate or research internships during the regular semester must obtain an Internship OD clearance. Students must submit an offer letter endorsed by the Career Development Center (CDC), along with a semester work-plan to their Head of Department at least two weeks before joining. Fortnightly supervisor attendance reports must be uploaded to the portal to maintain continuous academic registration standing. [Synthetic demonstration record for internship clearance]",
+    "keywords": ["internship", "od", "on duty leave", "internship approval", "cdc", "placement", "final year"],
+    "question_variants": [
+      "How to get OD approval for an off-campus internship?",
+      "What documents are required for final year internship leave?",
+      "Who approves semester internship clearance?",
+      "How frequently must internship attendance reports be submitted?"
+    ],
+    "synonyms": ["industrial training", "corporate internship", "placement od", "cdc approval"],
+    "source_type": "Procedure",
+    "source_name": "Career Development and Placement Guidelines (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-24"
+  },
+  {
+    "id": "kb_fac_001",
+    "title": "Overview of Campus Facilities, Amenities, and Student Services",
+    "category": "Campus Facilities",
+    "content": "The university provides comprehensive campus facilities to support academic, residential, and extracurricular student life. Key documented facilities include: 1) Central Library: Multi-level study spaces, digital research labs, and book lending services (open 08:00 AM to 11:00 PM weekdays); 2) Computing & Prototyping Labs: Modern hardware and data science labs located in Technology Tower and Silver Jubilee Tower; 3) Multi-Purpose Sports Complex & Gymnasium: Indoor badminton courts, outdoor tracks, and fitness gymnasiums; 4) Campus Health Center: 24/7 outpatient medical care, basic pharmacy, and emergency ambulance dispatch (Ext. 1100); 5) Student Dining & Food Courts: Multi-cuisine cafeterias and food courts operating across North and South residential zones; 6) Campus Shuttle Services: Free daytime electric shuttles connecting academic towers and hostel blocks; 7) High-Speed Wi-Fi: Secure 802.1X wireless internet (SSID: CAMPUS-SECURE) across all buildings; 8) Student Activity Centre (SAC): Headquarters for registered clubs, cultural chapters, and event auditoriums. Detailed guidelines and operating hours for each individual facility are available in their respective department guides. [Synthetic demonstration record for campus facilities and amenities]",
+    "keywords": ["campus facilities", "amenities", "services", "facilities available", "campus overview", "student amenities", "university facilities", "infrastructure", "cafeteria", "sports", "library", "labs"],
+    "question_variants": [
+      "How can I find information about campus facilities?",
+      "Where can I learn about the facilities available on campus?",
+      "What facilities does the university provide?",
+      "Can you tell me what amenities are available at the university?",
+      "I want to know about campus amenities.",
+      "What services and facilities are available for students?",
+      "What campus amenities are provided?",
+      "Where can I get an overview of university facilities?",
+      "What facilities are on campus?",
+      "Tell me about campus facilities and services."
+    ],
+    "synonyms": ["amenities", "infrastructure", "student services", "campus resources", "facilities directory", "utilities"],
+    "source_type": "Directory",
+    "source_name": "Campus Facilities & Student Amenities Guide (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-25"
+  },
+  {
+    "id": "kb_evt_003",
+    "title": "Event Registration Cancellation and Team Withdrawal Policy",
+    "category": "Event Registration",
+    "content": "Students or teams registered for campus hackathons, technical symposiums, or cultural competitions who cannot participate must submit a formal deregistration request via the Student Intranet portal (Events > My Registrations > Request Cancellation) at least 48 hours prior to the event start. For team events, if an individual member withdraws, the remaining team leader may submit a substitute participant request up to 24 hours before the event. Paid workshop registrations cancelled within the 48-hour window receive an automatic synthetic fee credit voucher within 5 business days. Late cancellations within 24 hours or unexcused no-shows forfeit eligibility for event participation certificates and may incur an administrative flag for future symposium registrations. [Synthetic demonstration record for event cancellation policy]",
+    "keywords": ["cancel event", "cancellation", "withdraw", "event withdrawal", "deregister", "drop out", "hackathon cancellation", "refund"],
+    "question_variants": [
+      "How do I cancel my event registration?",
+      "What if I want to cancel it?",
+      "Can I withdraw my hackathon team registration?",
+      "What is the policy for cancelling event participation?",
+      "How to deregister from university technical symposium?",
+      "Can I replace a team member who cannot attend the hackathon?",
+      "What happens if I cannot attend a registered campus event?",
+      "Is there a refund if I cancel my event registration?"
+    ],
+    "synonyms": ["withdrawal", "deregister", "cancellation policy", "drop participation", "team substitution", "opt out"],
+    "source_type": "Policy",
+    "source_name": "Office of Student Welfare Event Regulations (Synthetic Demo)",
+    "verified": false,
+    "last_updated": "2026-10-25"
+  }
+]
